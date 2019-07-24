@@ -1,0 +1,5 @@
+{
+  "client_id_filename" : "client_id.json",
+  "application_name" : "your-application-name",
+  "email_id" : "yourname@domain"
+}

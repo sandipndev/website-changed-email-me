@@ -1,0 +1,5 @@
+# Never share your credentials
+.credientials/*
+
+# What good does cache do?
+__pycache__/*
